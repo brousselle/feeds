@@ -2,69 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brousselle.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-20T17:45:10.321Z</updated>
+    <updated>2022-07-21T17:45:35.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Candler Building (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Candler_Building_(New_York_City)</id>
-        <link href="https://en.wikipedia.org/wiki/Candler_Building_(New_York_City)"/>
-        <updated>2022-07-20T17:45:06.742Z</updated>
-        <content type="html"><![CDATA[... that when the <b><a href="/wiki/Candler_Building_(New_York_City)" title="Candler Building (New York City)">Candler Building</a></b> <i>(pictured)</i> opened, it was the tallest building around <a href="/wiki/Times_Square" title="Times Square">Times Square</a>?]]></content>
+        <title type="html"><![CDATA[1982 World's Fair (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/1982_World%27s_Fair</id>
+        <link href="https://en.wikipedia.org/wiki/1982_World%27s_Fair"/>
+        <updated>2022-07-21T17:45:30.707Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Touchscreen" title="Touchscreen">touch-screen technology</a>, <a href="/wiki/Pay_at_the_pump" title="Pay at the pump">pay-at-the-pump</a>, <a href="/wiki/Car_phone" title="Car phone">car phones</a>, and <a href="/wiki/Coca-Cola_Cherry" title="Coca-Cola Cherry">Coca-Cola Cherry</a> were shown at the <b><a href="/wiki/1982_World%27s_Fair" title="1982 World's Fair">1982 World's Fair</a></b> <i>(pictured)</i><span style="padding-left:0.15em;">?</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Liu Zhaohua (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Liu_Zhaohua</id>
-        <link href="https://en.wikipedia.org/wiki/Liu_Zhaohua"/>
-        <updated>2022-07-20T17:45:06.743Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Liu_Zhaohua" title="Liu Zhaohua">Liu Zhaohua</a></b> was a Chinese drug lord who produced and trafficked over 18 tonnes of <a href="/wiki/Methamphetamine" title="Methamphetamine">methamphetamine</a>?]]></content>
+        <title type="html"><![CDATA[Yosef Shenberger (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Yosef_Shenberger</id>
+        <link href="https://en.wikipedia.org/wiki/Yosef_Shenberger"/>
+        <updated>2022-07-21T17:45:30.707Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Yosef_Shenberger" title="Yosef Shenberger">Yosef Shenberger</a></b> was inspired to add <a href="/wiki/Stained_glass" title="Stained glass">stained glass</a> and other decorative elements to his synagogues through his study of ancient ruins?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Henderson v. Box (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Henderson_v._Box</id>
-        <link href="https://en.wikipedia.org/wiki/Henderson_v._Box"/>
-        <updated>2022-07-20T17:45:06.747Z</updated>
-        <content type="html"><![CDATA[... that the 2020 case <i><b><a href="/wiki/Henderson_v._Box" title="Henderson v. Box">Henderson v. Box</a></b></i> held that the state of Indiana must list same-sex parents on their child's birth certificate?]]></content>
+        <title type="html"><![CDATA[pytest (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Pytest</id>
+        <link href="https://en.wikipedia.org/wiki/Pytest"/>
+        <updated>2022-07-21T17:45:30.707Z</updated>
+        <content type="html"><![CDATA[... that the software-testing framework <b><a href="/wiki/Pytest" title="Pytest">pytest</a></b> has been described as a key ecosystem project for the <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> programming language?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[statue of Captain Cook (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Statue_of_James_Cook,_Hyde_Park</id>
-        <link href="https://en.wikipedia.org/wiki/Statue_of_James_Cook,_Hyde_Park"/>
-        <updated>2022-07-20T17:45:06.749Z</updated>
-        <content type="html"><![CDATA[... that the unveiling of the <b><a href="/wiki/Statue_of_James_Cook,_Hyde_Park" title="Statue of James Cook, Hyde Park">statue of Captain Cook</a></b> in <a href="/wiki/Hyde_Park,_Sydney" title="Hyde Park, Sydney">Hyde Park, Sydney</a>, in 1879 was declared a public holiday, with an estimated 60,000 people in attendance?]]></content>
+        <title type="html"><![CDATA[Irving L. Branch (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Irving_L._Branch</id>
+        <link href="https://en.wikipedia.org/wiki/Irving_L._Branch"/>
+        <updated>2022-07-21T17:45:30.710Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Irving_L._Branch" title="Irving L. Branch">Irving L. Branch</a></b>  headed the <a href="/wiki/North_American_X-15" title="North American X-15"><span class="nowrap">X-15</span></a> rocket program and the first test flight of the <a href="/wiki/North_American_XB-70_Valkyrie" title="North American XB-70 Valkyrie"><span class="nowrap">B-70</span> Valkyrie</a> supersonic bomber?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everywhere We Go (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Everywhere_We_Go_(ballet)</id>
-        <link href="https://en.wikipedia.org/wiki/Everywhere_We_Go_(ballet)"/>
-        <updated>2022-07-20T17:45:06.751Z</updated>
-        <content type="html"><![CDATA[... that indie musician <a href="/wiki/Sufjan_Stevens" title="Sufjan Stevens">Sufjan Stevens</a> composed the score for the 2014 ballet <i><b><a href="/wiki/Everywhere_We_Go_(ballet)" title="Everywhere We Go (ballet)">Everywhere We Go</a></b></i>, choreographed by <a href="/wiki/Justin_Peck" title="Justin Peck">Justin Peck</a> for the <a href="/wiki/New_York_City_Ballet" title="New York City Ballet">New York City Ballet</a>?]]></content>
+        <title type="html"><![CDATA[Maizbhandari (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Maizbhandari</id>
+        <link href="https://en.wikipedia.org/wiki/Maizbhandari"/>
+        <updated>2022-07-21T17:45:30.711Z</updated>
+        <content type="html"><![CDATA[... that the <b><a href="/wiki/Maizbhandari" title="Maizbhandari">Maizbhandari</a></b> order of Sufism in Bangladesh is each year host to reportedly the fifth-largest gathering of Muslims in the world?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hermann Gutzmann (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Hermann_Gutzmann</id>
-        <link href="https://en.wikipedia.org/wiki/Hermann_Gutzmann"/>
-        <updated>2022-07-20T17:45:06.752Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Hermann_Gutzmann" title="Hermann Gutzmann">Hermann Gutzmann</a></b> died of <a href="/wiki/Sepsis" title="Sepsis">sepsis</a> after suffering a stab wound from a <a href="/wiki/Phonograph" title="Phonograph">gramophone</a> needle?]]></content>
+        <title type="html"><![CDATA[Louise Janssen (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/Louise_Janssen</id>
+        <link href="https://en.wikipedia.org/wiki/Louise_Janssen"/>
+        <updated>2022-07-21T17:45:30.712Z</updated>
+        <content type="html"><![CDATA[... that Danish-born <a href="/wiki/Soprano" title="Soprano">soprano</a> <b><a href="/wiki/Louise_Janssen" title="Louise Janssen">Louise Janssen</a></b> appeared at the <a href="/wiki/Op%C3%A9ra_National_de_Lyon" title="Opéra National de Lyon">Grand Théâtre de Lyon</a> as Eva in the French premiere of Wagner's <i><a href="/wiki/Die_Meistersinger_von_N%C3%BCrnberg" title="Die Meistersinger von Nürnberg">Die Meistersinger von Nürnberg</a></i>?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a South Carolina radio station (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/WVGB</id>
-        <link href="https://en.wikipedia.org/wiki/WVGB"/>
-        <updated>2022-07-20T17:45:06.752Z</updated>
-        <content type="html"><![CDATA[... that a <a href="/wiki/Federal_Communications_Commission" title="Federal Communications Commission">Federal Communications Commission</a> examiner found that billing fraud at <b><a href="/wiki/WVGB" title="WVGB">a South Carolina radio station</a></b> "merited the severest sanctions"?]]></content>
+        <title type="html"><![CDATA[HMS Chichester (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/HMS_Chichester_(1785)</id>
+        <link href="https://en.wikipedia.org/wiki/HMS_Chichester_(1785)"/>
+        <updated>2022-07-21T17:45:30.714Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/HMS_Chichester_(1785)" title="HMS Chichester (1785)">HMS&nbsp;<i>Chichester</i></a></b> was designed to carry 44 guns but never carried more than 22?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Christchurch smells (Wikipedia — did you know?)]]></title>
-        <id>https://en.wikipedia.org/wiki/Christchurch_Wastewater_Treatment_Plant</id>
-        <link href="https://en.wikipedia.org/wiki/Christchurch_Wastewater_Treatment_Plant"/>
-        <updated>2022-07-20T17:45:06.753Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Christchurch_Wastewater_Treatment_Plant" title="Christchurch Wastewater Treatment Plant">Christchurch smells</a></b>?]]></content>
+        <title type="html"><![CDATA[a South Dakota radio station (Wikipedia — did you know?)]]></title>
+        <id>https://en.wikipedia.org/wiki/KTPT</id>
+        <link href="https://en.wikipedia.org/wiki/KTPT"/>
+        <updated>2022-07-21T17:45:30.721Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/KTPT" title="KTPT">a South Dakota radio station</a></b> once played nothing but various recordings of "<a href="/wiki/Amazing_Grace" title="Amazing Grace">Amazing Grace</a>"?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Queensland (Wikivoyage recommendations)]]></title>
         <id>https://en.wikivoyage.org/wiki/Queensland</id>
         <link href="https://en.wikivoyage.org/wiki/Queensland"/>
-        <updated>2022-07-20T17:45:09.607Z</updated>
+        <updated>2022-07-21T17:45:34.487Z</updated>
         <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r3732050">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output .interactiveIcon{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style>
 <div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
@@ -82,7 +82,7 @@
         <title type="html"><![CDATA[Farnborough (Wikivoyage recommendations)]]></title>
         <id>https://en.wikivoyage.org/wiki/Farnborough</id>
         <link href="https://en.wikivoyage.org/wiki/Farnborough"/>
-        <updated>2022-07-20T17:45:09.610Z</updated>
+        <updated>2022-07-21T17:45:34.489Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
 <div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
@@ -97,21 +97,21 @@
 	<a href="/wiki/Farnborough" title="Farnborough"><img alt="Farnborough" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Farnborough_otbp_banner_Red_Arrows_and_A400M.jpg/1700px-Farnborough_otbp_banner_Red_Arrows_and_A400M.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Farnborough_otbp_banner_Red_Arrows_and_A400M.jpg/2550px-Farnborough_otbp_banner_Red_Arrows_and_A400M.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/42/Farnborough_otbp_banner_Red_Arrows_and_A400M.jpg 2x" data-file-width="2793" data-file-height="932" width="1700" height="567"></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wine regions of Ontario (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Wine_regions_of_Ontario</id>
-        <link href="https://en.wikivoyage.org/wiki/Wine_regions_of_Ontario"/>
-        <updated>2022-07-20T17:45:09.611Z</updated>
+        <title type="html"><![CDATA[New Golden Route (Wikivoyage recommendations)]]></title>
+        <id>https://en.wikivoyage.org/wiki/New_Golden_Route</id>
+        <link href="https://en.wikivoyage.org/wiki/New_Golden_Route"/>
+        <updated>2022-07-21T17:45:34.493Z</updated>
         <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r3732050">
 <div class="banner-image js-proportonal-resize">
 <p>	<img alt="Interactive icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" class="nolink interactiveIcon" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331">
 </p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:30%">
-		<h2><span class="mw-headline" id="Wine_regions_of_Ontario"><a href="/wiki/Wine_regions_of_Ontario" title="Wine regions of Ontario">Wine regions of Ontario</a></span></h2>
-		<h3><span class="mw-headline" id="Featured_Travel_Topic"><a href="/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured Travel Topic</a></span></h3>
-		<div class="quote"><a href="/wiki/Wine_regions_of_Ontario" title="Wine regions of Ontario">Discover Canada's largest wine region, and its wide variety of cool climate wines.</a></div>
+	<div class="mainpage-shadowbox banner-box-2 banner-box-left" style="width:30%">
+		<h2><span class="mw-headline" id="New_Golden_Route"><a href="/wiki/New_Golden_Route" title="New Golden Route">New Golden Route</a></span></h2>
+		<h3><span class="mw-headline" id="Featured_travel_topics"><a href="/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured travel topics</a></span></h3>
+		<div class="quote"><a href="/wiki/New_Golden_Route" title="New Golden Route">Connecting Tokyo and Kyoto via Northern Chubu, explore one of Japan's popular tourist trails.</a></div>
 	</div>
-<p>	<img alt="Wine regions of Ontario" src="//upload.wikimedia.org/wikipedia/commons/1/1e/Wikivoyage_banner_wines_of_ontario_2.jpg" decoding="async" title="Wine regions of Ontario" class="nolink" data-file-width="1280" data-file-height="426" width="1280" height="426">
+<p>	<img alt="New Golden Route" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_Golden_Route_banner_Thunderbird_Train.jpg/1700px-New_Golden_Route_banner_Thunderbird_Train.jpg" decoding="async" title="New Golden Route" class="nolink" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_Golden_Route_banner_Thunderbird_Train.jpg/2550px-New_Golden_Route_banner_Thunderbird_Train.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_Golden_Route_banner_Thunderbird_Train.jpg/3400px-New_Golden_Route_banner_Thunderbird_Train.jpg 2x" data-file-width="3888" data-file-height="1297" width="1700" height="567">
 </p>
-	<a href="/wiki/Wine_regions_of_Ontario" title="Wine regions of Ontario"><img alt="Wine regions of Ontario" src="//upload.wikimedia.org/wikipedia/commons/1/1e/Wikivoyage_banner_wines_of_ontario_2.jpg" decoding="async" data-file-width="1280" data-file-height="426" width="1280" height="426"></a></div>]]></content>
+	<a href="/wiki/New_Golden_Route" title="New Golden Route"><img alt="New Golden Route" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_Golden_Route_banner_Thunderbird_Train.jpg/1700px-New_Golden_Route_banner_Thunderbird_Train.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_Golden_Route_banner_Thunderbird_Train.jpg/2550px-New_Golden_Route_banner_Thunderbird_Train.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/New_Golden_Route_banner_Thunderbird_Train.jpg/3400px-New_Golden_Route_banner_Thunderbird_Train.jpg 2x" data-file-width="3888" data-file-height="1297" width="1700" height="567"></a></div>]]></content>
     </entry>
 </feed>
